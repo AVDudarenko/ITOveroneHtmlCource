@@ -3,6 +3,16 @@
 <head>
     <meta charset="utf-8">
 <title>My Page</title>
+<style>
+    table {
+        border-spacing: 12px;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 4px;
+        border: 1px solid black;
+    }
+</style>
 </head>
 <body>
     <h1>Домашнее задание :)</h1>
@@ -37,7 +47,13 @@
         <img src="wm-school.jpg" alt="wm-school.ru" style="width: 100px;height: 75px;">
     </p>
     <table>
+        <caption>Table of authors</caption>
         <tr><th>Year of writing</th><th>Author</th></tr>
+        <tr><th rowspan="2">2022</th><th>Jayson</th></tr>
+        <tr><th>Jayson</th></tr>
+        <tr><th>2018</th><th>Petya</th></tr>
+        <tr><th>2019</th><th>Vanya</th></tr>
+        <tr><th colspan="2">2002</th></tr>
     </table>
 </body>
 </html>
