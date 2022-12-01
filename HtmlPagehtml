@@ -14,7 +14,8 @@
 
     <!-- write by me in 01.12.2022 -->
     <p><blockquote cite="mysite">Чем умнее человек, тем легче он признает себя дураком. Джейсон Стейтем</blockquote></p>
-    <p><q>Чем умнее человек, тем легче он признает себя дураком.</q> Джейсон Стейтем</p>
+    <p><q>Чем умнее человек, тем легче он признает себя дураком.</q> 
+        <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B9%D1%82%D0%B5%D0%BC,_%D0%94%D0%B6%D0%B5%D0%B9%D1%81%D0%BE%D0%BD">Джейсон Стейтем</a></p>
     <p>Используя элемент HTML сделайте так, чтобы при наведении указателя мыши 
         <br>на аббревиатуру <abbr title="World Wide Web">WWW</abbr> появилась подсказка, coдержащая ее расшифровку: "World Wide Web".</p>
     <p><bdo dir="rtl">С помощью элемента HTML измените направление текста справа-налево.</bdo></p>
@@ -25,6 +26,9 @@
                 function close_menu() {}
             </code>
         </pre>
+    </p>
+    <p>
+        <a href="https://html.com/attributes/a-target/#:~:text=browser%20specifies%20otherwise.-,a%20target%3D%E2%80%9D_blank%E2%80%9D%20Open%20in%20New%20Browser%20Tab%20(,older%20browsers)%20a%20new%20window." target="_blank">Open new tab</a>
     </p>
 </body>
 </html>
