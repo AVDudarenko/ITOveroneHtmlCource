@@ -4,8 +4,8 @@
 <title>Page Title</title>
 </head>
 <body>
-    <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
-    <h2>This is Heding 2</h2>
+    <h1>Домашнее задание :)</h1>
+    <p>Скопируйте любой текст, перенесите его на нашу страницу, используя заголовки и абзацы.</p>
+    <p>В заголовке должно находиться название текста.</p>
 </body>
 </html>
