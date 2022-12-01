@@ -19,5 +19,12 @@
         <br>на аббревиатуру <abbr title="World Wide Web">WWW</abbr> появилась подсказка, coдержащая ее расшифровку: "World Wide Web".</p>
     <p><bdo dir="rtl">С помощью элемента HTML измените направление текста справа-налево.</bdo></p>
     <!-- <p>I am hiding</p> -->
+    <p>
+        <pre>
+            <code>
+                function close_menu() {}
+            </code>
+        </pre>
+    </p>
 </body>
 </html>
