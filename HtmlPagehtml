@@ -3,6 +3,16 @@
 <head>
     <meta charset="utf-8">
 <title>My Page</title>
+<style>
+    table {
+        border-spacing: 12px;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 4px;
+        border: 1px solid black;
+    }
+</style>
 </head>
 <body>
     <h1>Домашнее задание :)</h1>
