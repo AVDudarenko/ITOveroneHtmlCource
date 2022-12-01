@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-<title>Link to website</title>
+<title>My Page</title>
 </head>
 <body>
     <h1>Домашнее задание :)</h1>
@@ -11,5 +11,7 @@
     <p><a href="www.wm-school.ru">Link to website</a> </p> 
     <p>Ты должен стать <strong>профессионалом свое дела.</strong></p>
     <p>Когда тело падает - его скорость <mark>равномерно возрастает.</mark></p>
+    <p><blockquote cite="mysite">Чем умнее человек, тем легче он признает себя дураком. Джейсон Стейтем</blockquote></p>
+    <p><q>Чем умнее человек, тем легче он признает себя дураком.</q> Джейсон Стейтем</p>
 </body>
 </html>
