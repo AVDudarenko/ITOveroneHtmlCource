@@ -30,5 +30,11 @@
     <p>
         <a href="https://html.com/attributes/a-target/#:~:text=browser%20specifies%20otherwise.-,a%20target%3D%E2%80%9D_blank%E2%80%9D%20Open%20in%20New%20Browser%20Tab%20(,older%20browsers)%20a%20new%20window." target="_blank">Open new tab</a>
     </p>
+    <p>
+        <img src="author.jpg" style="width: 300px;height: 150px;">
+    </p>
+    <p>
+        <img src="wm-school.jpg" alt="wm-school.ru" style="width: 100px;height: 75px;">
+    </p>
 </body>
 </html>
