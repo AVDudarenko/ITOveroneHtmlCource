@@ -55,5 +55,16 @@
         <tr><th>2019</th><th>Vanya</th></tr>
         <tr><th colspan="2">2002</th></tr>
     </table>
+
+<p>
+    <ul>
+        <caption>Bruce Eckel</caption>
+        <li>Atomic Kotlin</li>
+        <li>Thinking in Java</li>
+        <li>Thinking in C</li>
+        <li>Thinking in C++</li>
+    </ul>
+</p>
+
 </body>
 </html>
