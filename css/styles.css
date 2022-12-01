@@ -10,3 +10,12 @@ h2 {
     background-color: aqua;
     font-style: italic;
 }
+
+.test {
+    background-color: blue;
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
