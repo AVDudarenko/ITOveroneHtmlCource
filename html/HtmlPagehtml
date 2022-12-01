@@ -57,8 +57,8 @@
     </table>
 
 <p>
+    <caption>Bruce Eckel</caption>
     <ul>
-        <caption>Bruce Eckel</caption>
         <li>Atomic Kotlin</li>
         <li>Thinking in Java</li>
         <li>Thinking in C</li>
