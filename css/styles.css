@@ -35,3 +35,7 @@ h2 {
 .body {
     background-color: bisque;
 }
+
+.capital_info{
+    border: 2px black dotted;
+}
