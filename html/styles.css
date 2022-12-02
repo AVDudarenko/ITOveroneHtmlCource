@@ -50,6 +50,7 @@ ul {
     .list_cities {
         color: blueviolet;
         margin: 10px;
+        list-style-type: upper-alpha;
     }
     
     .list_marked {
