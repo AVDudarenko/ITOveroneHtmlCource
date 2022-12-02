@@ -66,3 +66,15 @@ ul {
         border-collapse: collapse;
 
     }
+
+    .table_cities tr {
+        border: 2px solid green thick; 
+        border-collapse: collapse;
+
+    }
+
+    .table_cities th {
+        border: 2px solid green thick; 
+        border-collapse: collapse;
+
+    }
