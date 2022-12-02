@@ -19,3 +19,14 @@ h2 {
 .red {
     background-color: red;
 }
+
+.title_name_country {
+    color: blue;
+    font-size: large;
+}
+
+.text_country_info {
+    padding: 24px;
+    color: brown;
+    font-style: italic;
+}
