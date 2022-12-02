@@ -42,7 +42,7 @@ h2 {
     color: blueviolet;
     margin: 24px;
     padding: 24px;
-    border-style: 5px dashed black;
+    border: 5px dashed black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
 }
