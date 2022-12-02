@@ -60,3 +60,9 @@ ul {
     .list_numeric {
         list-style-type: decimal;
     }
+
+    .table_cities {
+        border: 2px solid green thick; 
+        border-collapse: collapse;
+
+    }
