@@ -31,3 +31,7 @@ h2 {
     color: brown;
     font-style: italic;
 }
+
+.body {
+    background-color: bisque;
+}
