@@ -1,0 +1,33 @@
+ul {
+/* <url> values */
+    list-style-image: url('https://cdn-icons-png.flaticon.com/512/1804/1804486.png');
+
+}
+
+h2 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    font-style: italic;
+}
+
+.test {
+    background-color: blue;
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
+
+.title_name_country {
+    color: blue;
+    font-size: large;
+    text-align: center;
+}
+
+.text_country_info {
+    padding: 24px;
+    color: brown;
+    font-style: italic;
+}
