@@ -23,6 +23,7 @@ h2 {
 .title_name_country {
     color: blue;
     font-size: large;
+    text-align: center;
 }
 
 .text_country_info {
