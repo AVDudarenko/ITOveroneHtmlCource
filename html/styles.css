@@ -61,8 +61,12 @@ ul {
         list-style-type: decimal;
     }
 
-    .table_cities {
-        border: 2px solid green thick; 
+    .table_cities{
+        margin: 0 auto;  
         border-collapse: collapse;
-
-    }
+        border: 5px solid green;
+       }
+   
+      table, th, td {
+       border: 5px solid green;
+   }
