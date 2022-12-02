@@ -61,24 +61,10 @@ ul {
         list-style-type: decimal;
     }
 
-    /* .table_cities {
-        border: 2px solid green thick; 
+    table{
         border-collapse: collapse;
-
-    }
-
-    .table_cities{
-        border: 2px solid green thick; 
-        border-collapse: collapse;
-
-    } */
-
-    table {
-    border-collapse: collapse;
-    }
-
-    table, th, tr{
-        border: 2px solid green thick; 
-        border-collapse: collapse;
-
-    }
+       }
+   
+      table, th, td {
+       border: 5px solid green;
+   }
