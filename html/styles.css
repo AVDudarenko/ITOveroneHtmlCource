@@ -70,3 +70,7 @@ ul {
       table, th, td {
        border: 5px solid green;
    }
+
+   .image_of_flag {
+        opacity: 0.5;
+   }
