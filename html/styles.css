@@ -73,6 +73,10 @@ ul {
 
     } */
 
+    table {
+    border-collapse: collapse;
+    }
+
     table, th, tr{
         border: 2px solid green thick; 
         border-collapse: collapse;
