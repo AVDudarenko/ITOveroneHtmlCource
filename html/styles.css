@@ -88,3 +88,7 @@ ul {
         padding-top: 20px;
         
     }
+
+    .history{
+        text-shadow: 0 0 3px #FF0000;
+    }
