@@ -72,10 +72,23 @@ ul {
    }
 
    .image_of_flag {
-        width: 200px;
-        height: 300px;
+        margin: auto;
+        width: 240px;
+        height: 340px;
         background: white;
         opacity: 0.5;
         border-radius: 20px 0px 20px 20px;
         border: 2px solid black;
+    }
+
+    .image_escudo {
+        width: 200px;
+        height: 300px;
+        padding-left: 20px;
+        padding-top: 20px;
+        
+    }
+
+    .history{
+        text-shadow: 0 0 3px #FF0000;
     }
